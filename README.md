@@ -1,8 +1,11 @@
 # ctv-based-shader
 a shader that looks like an old ctv for hyprland.
 
-## Sample 
+## Screenshot
 ![Alt text](sample.jpg)
+
+## Sample Video
+![Preview demo](demo.mp4)
 
 ## Installation
 First, clone it:
